@@ -1,7 +1,7 @@
-html {background:linear-gradient(90deg,#31998e,#00ffdd,#004435);}
-h1 {text-align:center;text-shadow:1px 1px 0px #54a4dd, 1px 0px 0px #54a4dd, 1px -1px 0px #54a4dd, 0px -1px 0px #54a4dd, -1px -1px 0px #54a4dd, -1px 0px 0px #54a4dd, -1px 1px 0px #54a4dd, 0px 1px 0px #54a4dd;color:#001b22;}
-td,th {border:2px outset #00ffdd;padding:0px;margin:0px;}
+html {background:linear-gradient(90deg,#5e5e5e,#c1c1c1,#3f3f3f);}
+h1 {text-align:center;text-shadow:1px 1px 0px #590c0c, 1px 0px 0px #590c0c, 1px -1px 0px #590c0c, 0px -1px 0px #590c0c, -1px -1px 0px #590c0c, -1px 0px 0px #590c0c, -1px 1px 0px #590c0c, 0px 1px 0px #590c0c;color:#232323;}
+td,th {border:2px outset #e0e0e0;padding:0px;margin:0px;}
 h2,h3 {line-height:0.5;}
-table {background:#3389cc;border:2px outset #00ffdd;padding:0px;text-align:center;}
+table {background:#7a7a7a;border:2px outset #e5e5e5;padding:0px;text-align:center;}
 ol {text-indent:-5px;}
 li {padding-right:25px;}
